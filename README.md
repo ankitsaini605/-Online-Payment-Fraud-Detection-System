@@ -45,4 +45,4 @@ The system leverages **Python, Pandas, Scikit‑Learn, and ML classification alg
 
 ## 👨‍💻 Author   
 **Ankit Saini**  
-🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio]()   
+🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio](https://ankitsaini605.github.io/) 📧 [Email](https://ankitsaini24082002@gmail.com)   
